@@ -1,5 +1,6 @@
 ## Olá me chamo Eduardo(Dev0Duds)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p>LINGUAGENS PRATICADAS</p>
 <div style="display: inline_block"><br>
