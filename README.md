@@ -1,6 +1,7 @@
 ## Olá me chamo Eduardo(Dev0Duds)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev0Duds&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Duds&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 <p>LINGUAGENS PRATICADAS</p>
 <div style="display: inline_block"><br>
