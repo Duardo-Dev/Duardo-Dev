@@ -1,9 +1,8 @@
 ## Olá me chamo Eduardo(Dev0Duds)
-<center>
-    
-![Status](https://github-readme-stats.vercel.app/api?username=Dev0Duds&show_icons=true&theme=radical)
+
+![Status](https://github-readme-stats.vercel.app/api?username=Dev0Duds&show_icons=true&theme=radical&height="50";width="50")
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Duds&exclude_repo=github-readme-stats,anuraghazra.github.io)
-</center>
+
 
 ## 👇👇
 <div style="display: inline_block"><br>
