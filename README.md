@@ -11,9 +11,9 @@
 - ⚡ Back/Front ...
 
 - <div>
-<a href = "https://beacons.ai/github.com/Dev0Duds">
+<a href = "https://beacons.ai/Dev0Duds">
 <img height = "120em"  src ="https://github-readme-stats.vercel.app/apl/top-langs/?username=Dev0Duds&layout=compact&langs_count=16&theme=dracula"/>
 
   
 </div>
--->
+
