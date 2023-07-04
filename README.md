@@ -1,4 +1,5 @@
-## Olá me chamo Eduardo(Dev0Duds)
+## Olá me chamo Eduardo
+
 <div align = center>
     
 
