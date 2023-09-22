@@ -1,4 +1,4 @@
-## Olá me chamo Eduardo, aprimorando-se para me tornar um programador back-end.
+## Olá me chamo Eduardo, atualmente estudando para me tornar um programador back-end.
 
 <div align = center>
     
