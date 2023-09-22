@@ -3,7 +3,7 @@
 <div align = center>
     
 
-![Status](https://github-readme-stats.vercel.app/api?username=Duardo-Dev&show_icons=true&theme=radical&imgwidth=48%src=link)
+![Status](https://github-readme-stats.vercel.app/api?username=Duardo-Dev&show_icons=true&theme=radical&imgwidth=48%src=link)&emsp;&emsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Duardo-Dev&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)<br>
 
 </div>
